@@ -1,0 +1,32 @@
+PROJECT "DAEMON" RELEASE NOTES
+
+NOTICE: Project "Daemon" is a Confidential in-dev application that is NOT allowed to be disclosed. These Release Notes shall not be 
+disclosed once so ever.
+
+
+------------------------------------------------------------------------------------------
+
+Alpha Build 5.1 (alpha.m2.b5.1.dev_ux-1592.006)
+
+Compile Date: 10/04/2018
+
+- A Default Settings (full version) button has been added
+- The Homepage "Any Valid Text" bug has been fixed
+- The Stop & Refresh buttons have been combined into one
+- The Default Homepage has been changed to "https://scaaarnetworks.com"
+- The Non-Working Unicode buttons have been changed
+- The Address bar has been extended a bit from the removal of a button
+- Placeholder icon now added (can be seen on the taskbar & top of the application)
+
+
+Alpha Build 5 (alpha.m2.b5.main-0291.495)
+
+Compile Date: 10/03/2018
+
+- The "About" dialog has been officially released
+- First Milestone 2 build
+- The button to access the panel has been realigned and is now bigger
+
+------------------------------------------------------------------------------------------
+
+© Scaaar Networks 2018 All Rights Reserved
